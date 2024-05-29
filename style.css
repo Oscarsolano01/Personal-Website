@@ -1,0 +1,124 @@
+h1{
+ font-family:serif rgb(61, 7, 7);
+ text-decoration: underline;
+ font-size: 40px;
+ border-style:solid;
+ padding:15px;
+}
+
+.contact-page{
+ background-color: #ac9393;
+}
+.header-name{
+font-size: 30px;
+display: flex;
+justify-content: center;
+
+}
+body{
+ background-color:rgb(214, 216, 208);
+ box-shadow:2px black;
+
+}
+
+#links{
+ display:flex;
+ justify-content: space-between;
+align-items:baseline;
+
+}
+
+.gears{
+ width: 400px;
+ float:right;
+ margin:10px;
+} 
+
+form{
+ border:solid 3px;
+ display:flex;
+ flex-direction:column;
+ width: 30%;
+ padding:10px;
+display:table ;
+}
+
+.basketball{
+ width:250px;
+ height:250px;
+ float:right;
+ margin:10px;
+}
+
+section{
+ border-top:1px solid black;
+ font-family:serif;
+}
+
+.wine-glass{
+ width:250px;
+ height:200px;
+ float:left;
+margin:10px;
+}
+
+.soccer{
+ width:400px;
+ height:250px;
+ float:right;
+ margin:10px;
+}
+
+.chairProject{
+ width:250px;
+ height:200px;
+ float:right;
+margin:10px; 
+}
+
+.project-2{
+ width:250px;
+ height:200px;
+ float:left;
+margin:10px;
+}
+
+.project-3{
+ width:400px;
+ height:250px;
+ float:right;
+ margin:10px;
+}
+
+
+
+.button-8 {
+  background-color: #e1ecf4;
+  border-radius: 3px;
+  border: 1px solid #7aa7c7;
+  box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #39739d;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.button-8:hover,
+.button-8:focus {
+  background-color: #b3d3ea;
+  color: #2c5777;
+}
+
+.button-8:focus {
+  box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.button-8:active {
+  background-color: #a0c7e4;
+  box-shadow: none;
+  color: #2c5777;
+}
+
+form{
+ display: flex;
+}
